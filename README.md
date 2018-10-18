@@ -5,3 +5,5 @@ Once the DFA is generated ,the input string is input to the DFA and traversed to
 The graphical representation of the NFA and DFA is generated and will be present on the Desktop in the Graphs folder.
 
 Run the file /src/nfa/Operations.java
+
+### Project done in Jul-Dec 2014
